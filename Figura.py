@@ -1,3 +1,8 @@
+#Laboratorio N° 21 - Ejercicio 03
+#Autor: Andrea Camargo
+#Colaboro: 
+#Tiempo: 20 minutos
+
 import math
 class Figura:
     def area(self):
